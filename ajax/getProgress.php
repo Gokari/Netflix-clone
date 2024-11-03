@@ -1,6 +1,6 @@
 <?php
 require_once("../includes/config.php");
-
+//Added condition
 if(isset($_POST["videoId"]) && isset($_POST["username"])) {
     $query = $con->prepare("SELECT progress FROM videoProgress 
                             WHERE username=:username AND videoId=:videoId");
