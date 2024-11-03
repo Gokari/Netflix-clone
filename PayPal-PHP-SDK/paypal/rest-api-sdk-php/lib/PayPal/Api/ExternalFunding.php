@@ -18,6 +18,7 @@ use PayPal\Common\PayPalModel;
  * @property \PayPal\Api\Amount amount
  * @property string funding_instruction
  */
+
 class ExternalFunding extends PayPalModel
 {
     /**

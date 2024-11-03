@@ -12,6 +12,7 @@ use PayPal\Exception\PayPalInvalidCredentialException;
  *
  * @package PayPal\Core
  */
+
 class PayPalCredentialManager
 {
     /**

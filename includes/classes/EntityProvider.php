@@ -4,7 +4,7 @@ class EntityProvider {
     public static function getEntities($con, $categoryId, $limit) {
 
         $sql = "SELECT * FROM entities ";
-
+//conditional statement
         if($categoryId != null) {
             $sql .= "WHERE categoryId=:categoryId ";
         }

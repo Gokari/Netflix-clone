@@ -18,6 +18,7 @@ use PayPal\Common\PayPalModel;
  * @property bool payer_acceptance
  * @property bool cart_amount_immutable
  */
+
 class CreditFinancingOffered extends PayPalModel
 {
     /**

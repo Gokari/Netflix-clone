@@ -16,6 +16,7 @@ use PayPal\Common\PayPalModel;
  * @property string recipient_type
  * @property string batch_status
  */
+
 class PayoutSenderBatchHeader extends PayPalModel
 {
     /**

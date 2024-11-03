@@ -1,7 +1,7 @@
 <?php
 class User {
     private $con, $sqlData;
-
+//user
     public function __construct($con, $username) {
         $this->con = $con;
 

@@ -21,6 +21,7 @@ use PayPal\Validation\UrlValidator;
  * @property bool conversion_type_changeable
  * @property \PayPal\Api\Links[] links
  */
+
 class CurrencyConversion extends PayPalModel
 {
     /**

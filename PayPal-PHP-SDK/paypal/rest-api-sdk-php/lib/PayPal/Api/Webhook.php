@@ -19,6 +19,7 @@ use PayPal\Validation\UrlValidator;
  * @property string url
  * @property \PayPal\Api\WebhookEventType[] event_types
  */
+
 class Webhook extends PayPalResourceModel
 {
     /**

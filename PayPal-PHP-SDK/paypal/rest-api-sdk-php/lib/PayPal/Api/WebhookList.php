@@ -13,6 +13,7 @@ use PayPal\Common\PayPalModel;
  *
  * @property \PayPal\Api\Webhook[] webhooks
  */
+
 class WebhookList extends PayPalModel
 {
     /**

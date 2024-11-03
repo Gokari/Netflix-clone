@@ -21,6 +21,7 @@ use PayPal\Common\PayPalModel;
  * @property string additional_text
  * @property \PayPal\Api\Links[] links
  */
+
 class FundingSource extends FundingInstrument
 {
     /**

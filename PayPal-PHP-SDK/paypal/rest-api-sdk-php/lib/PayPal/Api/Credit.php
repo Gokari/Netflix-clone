@@ -14,6 +14,7 @@ use PayPal\Common\PayPalModel;
  * @property string id
  * @property string type
  */
+
 class Credit extends PayPalModel
 {
     /**

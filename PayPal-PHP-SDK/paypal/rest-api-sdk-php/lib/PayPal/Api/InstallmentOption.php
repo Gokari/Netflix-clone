@@ -16,6 +16,7 @@ use PayPal\Common\PayPalModel;
  * @property \PayPal\Api\Currency discount_amount
  * @property string discount_percentage
  */
+
 class InstallmentOption extends PayPalModel
 {
     /**

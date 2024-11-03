@@ -14,6 +14,7 @@ use PayPal\Common\PayPalModel;
  * @property \PayPal\Api\Currency amount
  * @property \PayPal\Api\Tax tax
  */
+
 class ShippingCost extends PayPalModel
 {
     /**

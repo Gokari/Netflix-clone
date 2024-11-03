@@ -14,6 +14,7 @@ use PayPal\Common\PayPalModel;
  * @property string field
  * @property string issue
  */
+
 class ErrorDetails extends PayPalModel
 {
     /**

@@ -17,6 +17,7 @@ use PayPal\Exception\PayPalMissingCredentialException;
 /**
  * Class RestHandler
  */
+
 class RestHandler implements IPayPalHandler
 {
     /**

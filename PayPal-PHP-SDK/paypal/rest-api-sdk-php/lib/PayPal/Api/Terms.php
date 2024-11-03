@@ -18,6 +18,7 @@ use PayPal\Common\PayPalModel;
  * @property \PayPal\Api\Currency amount_range
  * @property string buyer_editable
  */
+
 class Terms extends PayPalModel
 {
     /**

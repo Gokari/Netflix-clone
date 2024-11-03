@@ -11,6 +11,7 @@ namespace PayPal\Api;
  *
  * @property \PayPal\Api\Phone phone
  */
+
 class InvoiceAddress extends BaseAddress
 {
     /**

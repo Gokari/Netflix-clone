@@ -18,6 +18,7 @@ use PayPal\Common\PayPalModel;
  * @property \PayPal\Api\InstallmentInfo installment_info
  * @property \PayPal\Api\Links[] links
  */
+
 class FundingOption extends PayPalModel
 {
     /**

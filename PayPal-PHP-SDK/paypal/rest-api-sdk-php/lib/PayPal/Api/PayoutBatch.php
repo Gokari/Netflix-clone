@@ -15,6 +15,7 @@ use PayPal\Common\PayPalModel;
  * @property \PayPal\Api\PayoutItemDetails[] items
  * @property \PayPal\Api\Links[] links
  */
+
 class PayoutBatch extends PayPalModel
 {
     /**

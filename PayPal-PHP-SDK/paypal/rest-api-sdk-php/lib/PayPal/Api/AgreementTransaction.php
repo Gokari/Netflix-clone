@@ -22,6 +22,7 @@ use PayPal\Common\PayPalModel;
  * @property string time_stamp
  * @property string time_zone
  */
+
 class AgreementTransaction extends PayPalModel
 {
     /**

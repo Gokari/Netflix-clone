@@ -20,6 +20,7 @@ class Image extends PayPalModel
      * 
      * @return $this
      */
+    
     public function setImage($imageBase64String)
     {
         $this->image = $imageBase64String;

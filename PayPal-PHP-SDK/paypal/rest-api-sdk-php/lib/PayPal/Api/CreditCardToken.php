@@ -18,6 +18,7 @@ use PayPal\Common\PayPalModel;
  * @property int expire_month
  * @property int expire_year
  */
+
 class CreditCardToken extends PayPalModel
 {
     /**

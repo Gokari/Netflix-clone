@@ -7,7 +7,7 @@ class Account {
     public function __construct($con) {
         $this->con = $con;
     }
-
+//update
     public function updateDetails($fn, $ln, $em, $un) {
         $this->validateFirstName($fn);
         $this->validateLastName($ln);

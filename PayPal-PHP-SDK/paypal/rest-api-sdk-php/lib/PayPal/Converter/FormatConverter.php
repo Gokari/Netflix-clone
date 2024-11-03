@@ -25,6 +25,7 @@ class FormatConverter
      * @param int $decimals
      * @return null|string
      */
+    
     public static function formatToNumber($value, $decimals = 2)
     {
         if (trim($value) != null) {

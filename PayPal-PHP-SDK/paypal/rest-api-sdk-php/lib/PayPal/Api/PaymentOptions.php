@@ -13,6 +13,7 @@ use PayPal\Common\PayPalModel;
  *
  * @property string allowed_payment_method
  */
+
 class PaymentOptions extends PayPalModel
 {
     /**

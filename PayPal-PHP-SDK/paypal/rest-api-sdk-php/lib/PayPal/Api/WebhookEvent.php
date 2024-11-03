@@ -26,6 +26,7 @@ use PayPal\Validation\JsonValidator;
  * @property string status
  * @property mixed[] transmissions
  */
+
 class WebhookEvent extends PayPalResourceModel
 {
     /**

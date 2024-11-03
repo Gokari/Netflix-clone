@@ -13,7 +13,7 @@ class VideoProvider {
         $query->bindValue(":videoId", $currentVideo->getId());
         
         $query->execute();
-
+//conditional
         if($query->rowCount() == 0) {
             $query = $con->prepare("SELECT * FROM videos
                                     WHERE season <=1 AND episode <= 1

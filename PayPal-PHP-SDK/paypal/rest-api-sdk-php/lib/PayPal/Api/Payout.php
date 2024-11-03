@@ -18,6 +18,7 @@ use PayPal\Validation\ArgumentValidator;
  * @property \PayPal\Api\PayoutItem[] items
  * @property \PayPal\Api\Links[] links
  */
+
 class Payout extends PayPalResourceModel
 {
     /**

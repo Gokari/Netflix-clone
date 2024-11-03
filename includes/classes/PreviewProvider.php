@@ -10,7 +10,7 @@ class PreviewProvider {
 
     public function createCategoryPreviewVideo($categoryId) {
         $entitiesArray = EntityProvider::getEntities($this->con, $categoryId, 1);
-
+//conditional statement
         if(sizeof($entitiesArray) == 0) {
             ErrorMessage::show("No TV shows to display");
         }

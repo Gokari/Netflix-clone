@@ -9,6 +9,7 @@ include_once("includes/header.php");
 
 <script>
 
+
 $(function() {
 
     var username = '<?php echo $userLoggedIn; ?>';

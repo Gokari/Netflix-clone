@@ -23,6 +23,7 @@ use PayPal\Validation\UrlValidator;
  * @property string accepted_payment_type
  * @property string char_set
  */
+
 class MerchantPreferences extends PayPalModel
 {
     /**

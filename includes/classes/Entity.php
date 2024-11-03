@@ -5,7 +5,7 @@ class Entity {
 
     public function __construct($con, $input) {
         $this->con = $con;
-
+//condition statement
         if(is_array($input)) {
             $this->sqlData = $input;
         }

@@ -16,6 +16,7 @@ use PayPal\Common\PayPalModel;
  * @property bool send_to_merchant
  * @property string[] cc_emails
  */
+
 class Notification extends PayPalModel
 {
     /**

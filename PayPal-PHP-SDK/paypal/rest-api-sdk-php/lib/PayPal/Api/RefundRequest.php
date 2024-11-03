@@ -18,6 +18,7 @@ use PayPal\Common\PayPalModel;
  * @property string invoice_number
  * @property bool refund_advice
  */
+
 class RefundRequest extends PayPalModel
 {
     /**

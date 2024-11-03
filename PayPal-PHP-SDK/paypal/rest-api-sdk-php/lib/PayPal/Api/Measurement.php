@@ -14,6 +14,7 @@ use PayPal\Common\PayPalModel;
  * @property string value
  * @property string unit
  */
+
 class Measurement extends PayPalModel
 {
     /**

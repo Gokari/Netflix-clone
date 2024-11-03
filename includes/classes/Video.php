@@ -4,7 +4,7 @@ class Video {
 
     public function __construct($con, $input) {
         $this->con = $con;
-
+//conditional
         if(is_array($input)) {
             $this->sqlData = $input;
         }

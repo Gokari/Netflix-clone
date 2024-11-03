@@ -30,6 +30,7 @@ use PayPal\Common\PayPalModel;
  * @property string issue_number
  * @property \PayPal\Api\Links[] links
  */
+
 class PaymentCard extends PayPalModel
 {
     /**

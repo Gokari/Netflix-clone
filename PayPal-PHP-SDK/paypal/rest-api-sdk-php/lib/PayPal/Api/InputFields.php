@@ -15,6 +15,7 @@ use PayPal\Common\PayPalModel;
  * @property int no_shipping
  * @property int address_override
  */
+
 class InputFields extends PayPalModel
 {
     /**

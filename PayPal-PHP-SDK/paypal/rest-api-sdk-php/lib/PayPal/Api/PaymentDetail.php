@@ -19,6 +19,7 @@ use PayPal\Common\PayPalModel;
  * @property string note
  * @property \PayPal\Api\Currency amount
  */
+
 class PaymentDetail extends PayPalModel
 {
     /**

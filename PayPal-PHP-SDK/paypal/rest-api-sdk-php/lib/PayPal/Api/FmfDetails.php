@@ -16,6 +16,7 @@ use PayPal\Common\PayPalModel;
  * @property string name
  * @property string description
  */
+
 class FmfDetails extends PayPalModel
 {
     /**

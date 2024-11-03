@@ -25,6 +25,7 @@ use PayPal\Validation\ArgumentValidator;
  * @property string              valid_until
  * @property \PayPal\Api\Links[] links
  */
+
 class CreditCard extends PayPalResourceModel
 {
     /**

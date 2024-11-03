@@ -12,7 +12,7 @@ class ComposerStaticInit728f96e67824ff0c88d9b31fcd5c7681
             'Psr\\Log\\' => 8,
         ),
     );
-
+//order map
     public static $prefixDirsPsr4 = array (
         'Psr\\Log\\' => 
         array (

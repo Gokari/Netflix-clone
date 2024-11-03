@@ -23,6 +23,7 @@ use PayPal\Common\PayPalModel;
  * @property string additional_info_label
  * @property string additional_info
  */
+
 class MerchantInfo extends PayPalModel
 {
     /**

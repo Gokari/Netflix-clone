@@ -18,6 +18,7 @@ use PayPal\Common\PayPalModel;
  * @property string eci_submitted
  * @property string vpas
  */
+
 class ProcessorResponse extends PayPalModel
 {
     /**

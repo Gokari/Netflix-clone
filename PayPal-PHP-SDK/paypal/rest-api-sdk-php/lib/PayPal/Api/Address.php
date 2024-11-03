@@ -8,6 +8,7 @@ namespace PayPal\Api;
  * Base Address object used as billing address in a payment or extended for Shipping Address.
  *
  * @package PayPal\Api
+ * @package paypal
  *
  * @property string phone
  * @property string type

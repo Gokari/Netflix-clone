@@ -22,6 +22,7 @@ use PayPal\Validation\ArgumentValidator;
  * @property string unit_of_measure
  * @property bool custom
  */
+
 class Template extends PayPalResourceModel
 {
     /**

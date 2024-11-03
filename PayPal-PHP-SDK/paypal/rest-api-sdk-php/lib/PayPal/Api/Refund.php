@@ -27,6 +27,7 @@ use PayPal\Rest\ApiContext;
  * @property string reason_code
  * @property \PayPal\Api\Links[] links
  */
+
 class Refund extends PayPalResourceModel
 {
     /**

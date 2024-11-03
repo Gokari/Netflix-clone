@@ -20,6 +20,7 @@ use PayPal\Common\PayPalModel;
  * @property \PayPal\Api\Currency amount
  * @property \PayPal\Api\ChargeModel[] charge_models
  */
+
 class PaymentDefinition extends PayPalModel
 {
     /**

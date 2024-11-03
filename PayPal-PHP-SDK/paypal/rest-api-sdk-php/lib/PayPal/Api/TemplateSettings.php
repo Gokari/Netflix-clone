@@ -23,6 +23,7 @@ class TemplateSettings extends PayPalModel
      * 
      * @return $this
      */
+    
     public function setFieldName($field_name)
     {
         $this->field_name = $field_name;

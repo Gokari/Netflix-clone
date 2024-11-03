@@ -15,6 +15,7 @@ use PayPal\Common\PayPalModel;
  * @property int count
  * @property string next_id
  */
+
 class BankAccountsList extends PayPalModel
 {
     /**

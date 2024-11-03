@@ -16,6 +16,7 @@ use PayPal\Common\PayPalModel;
  * @property string total_pages
  * @property \PayPal\Api\Links[] links
  */
+
 class PlanList extends PayPalModel
 {
     /**

@@ -17,6 +17,7 @@ use PayPal\Validation\UrlValidator;
  * @property string user_action
  * @property string return_uri_http_method
  */
+
 class FlowConfig extends PayPalModel
 {
     /**

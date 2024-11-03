@@ -11,6 +11,7 @@ use Psr\Log\LoggerInterface;
  *
  * @package PayPal\Log
  */
+
 class PayPalDefaultLogFactory implements PayPalLogFactory
 {
     /**

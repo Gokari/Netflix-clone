@@ -18,6 +18,7 @@ use PayPal\Validation\NumericValidator;
  * @property \PayPal\Api\number percent
  * @property \PayPal\Api\Currency amount
  */
+
 class Tax extends PayPalModel
 {
     /**

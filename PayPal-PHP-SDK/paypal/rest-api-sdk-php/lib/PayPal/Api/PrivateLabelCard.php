@@ -17,6 +17,7 @@ use PayPal\Common\PayPalModel;
  * @property string issuer_name
  * @property string image_key
  */
+
 class PrivateLabelCard extends PayPalModel
 {
     /**

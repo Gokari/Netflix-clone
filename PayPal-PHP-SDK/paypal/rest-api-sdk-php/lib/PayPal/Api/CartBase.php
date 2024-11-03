@@ -156,6 +156,7 @@ class CartBase extends PayPalModel
         return $this;
     }
 
+    
     /**
      * free-form field for the use of clients
      *

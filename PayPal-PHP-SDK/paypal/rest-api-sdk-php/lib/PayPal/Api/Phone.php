@@ -15,6 +15,7 @@ use PayPal\Common\PayPalModel;
  * @property string national_number
  * @property string extension
  */
+
 class Phone extends PayPalModel
 {
     /**

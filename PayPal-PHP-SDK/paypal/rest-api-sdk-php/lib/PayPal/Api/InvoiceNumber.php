@@ -13,6 +13,7 @@ use PayPal\Common\PayPalModel;
  *
  * @property string number
  */
+
 class InvoiceNumber extends PayPalModel
 {
     /**

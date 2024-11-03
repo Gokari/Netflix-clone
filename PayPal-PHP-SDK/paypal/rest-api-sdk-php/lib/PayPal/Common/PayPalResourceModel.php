@@ -13,6 +13,7 @@ use PayPal\Transport\PayPalRestCall;
  * @property \PayPal\Api\Links[] links
  * @package PayPal\Common
  */
+
 class PayPalResourceModel extends PayPalModel implements IResource
 {
 

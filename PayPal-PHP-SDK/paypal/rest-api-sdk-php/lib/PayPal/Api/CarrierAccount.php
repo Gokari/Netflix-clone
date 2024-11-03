@@ -17,6 +17,7 @@ use PayPal\Common\PayPalModel;
  * @property string phone_source
  * @property \PayPal\Api\CountryCode country_code
  */
+
 class CarrierAccount extends PayPalModel
 {
     /**

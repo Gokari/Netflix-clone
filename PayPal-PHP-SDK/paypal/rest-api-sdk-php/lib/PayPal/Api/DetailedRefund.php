@@ -17,6 +17,7 @@ namespace PayPal\Api;
  * @property \PayPal\Api\Currency refund_from_received_amount
  * @property \PayPal\Api\Currency total_refunded_amount
  */
+
 class DetailedRefund extends Refund
 {
     /**
