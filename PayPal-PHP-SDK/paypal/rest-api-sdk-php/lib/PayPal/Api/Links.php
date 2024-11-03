@@ -18,6 +18,7 @@ use PayPal\Common\PayPalModel;
  * @property string enctype
  * @property \PayPal\Api\HyperSchema schema
  */
+
 class Links extends PayPalModel
 {
     /**

@@ -8,6 +8,7 @@ namespace PayPal\Common;
  *
  * @package PayPal\Common
  */
+
 class PayPalUserAgent
 {
 

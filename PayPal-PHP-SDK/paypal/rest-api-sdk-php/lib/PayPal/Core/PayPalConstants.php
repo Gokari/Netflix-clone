@@ -8,6 +8,7 @@ namespace PayPal\Core;
  *
  * @package PayPal\Core
  */
+
 class PayPalConstants
 {
 

@@ -13,6 +13,7 @@ use PayPal\Common\PayPalModel;
  *
  * @property bool hidden
  */
+
 class TemplateSettingsMetadata extends PayPalModel
 {
     /**

@@ -12,7 +12,7 @@ class ComposerAutoloaderInit728f96e67824ff0c88d9b31fcd5c7681
             require __DIR__ . '/ClassLoader.php';
         }
     }
-
+//autoload
     public static function getLoader()
     {
         if (null !== self::$loader) {

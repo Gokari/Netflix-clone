@@ -23,6 +23,7 @@ use PayPal\Validation\UrlValidator;
  * @property string webhook_id
  * @property \PayPal\Api\WebhookEvent webhook_event
  */
+
 class VerifyWebhookSignature extends PayPalResourceModel
 {
     /**

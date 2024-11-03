@@ -2,7 +2,7 @@
 class Season {
 
     private $seasonNumber, $videos;
-
+//functions
     public function __construct($seasonNumber, $videos) {
         $this->seasonNumber = $seasonNumber;
         $this->videos = $videos;

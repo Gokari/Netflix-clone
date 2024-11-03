@@ -70,7 +70,7 @@ class Agreement extends PayPalResourceModel
     /**
      * State of the agreement.
      *
-     * @return string
+     *   @return string
      */
     public function getState()
     {

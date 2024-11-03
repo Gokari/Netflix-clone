@@ -6,6 +6,7 @@ require_once("includes/classes/FormSanitizer.php");
 require_once("includes/classes/Constants.php");
 require_once("includes/classes/BillingDetails.php");
 
+
 $user = new User($con, $userLoggedIn);
 
 $detailsMessage = "";

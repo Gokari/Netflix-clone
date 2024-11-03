@@ -21,6 +21,7 @@ use PayPal\Validation\ArgumentValidator;
  * @property \PayPal\Api\InputFields input_fields
  * @property \PayPal\Api\Presentation presentation
  */
+
 class WebProfile extends PayPalResourceModel
 {
     /**

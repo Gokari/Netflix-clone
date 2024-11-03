@@ -18,6 +18,7 @@ use PayPal\Common\PayPalModel;
  * @property string                     debug_id
  * @property \PayPal\Api\Links[]        links
  */
+
 class Error extends PayPalModel
 {
     /**

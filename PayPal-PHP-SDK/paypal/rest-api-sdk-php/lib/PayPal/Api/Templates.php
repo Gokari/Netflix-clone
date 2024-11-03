@@ -21,6 +21,7 @@ use PayPal\Rest\ApiContext;
  * @property \PayPal\Api\Template[] templates
  * @property \PayPal\Api\Links[] links
  */
+
 class Templates extends PayPalResourceModel
 {
     /**

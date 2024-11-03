@@ -13,6 +13,7 @@ use PayPal\Common\PayPalModel;
  *
  * @property \PayPal\Api\Amount amount
  */
+
 class Transactions extends PayPalModel
 {
     /**

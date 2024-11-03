@@ -10,6 +10,7 @@ use PayPal\Exception\PayPalConnectionException;
  * Requires the PHP curl module to be enabled.
  * See for full requirements the PHP manual: http://php.net/curl
  */
+
 class PayPalHttpConnection
 {
 

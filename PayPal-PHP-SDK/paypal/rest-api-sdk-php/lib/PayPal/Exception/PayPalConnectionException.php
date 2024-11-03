@@ -7,6 +7,7 @@ namespace PayPal\Exception;
  *
  * @package PayPal\Exception
  */
+
 class PayPalConnectionException extends \Exception
 {
     /**

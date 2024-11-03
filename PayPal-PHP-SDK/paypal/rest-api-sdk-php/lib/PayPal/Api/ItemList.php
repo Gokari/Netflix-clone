@@ -16,6 +16,7 @@ use PayPal\Common\PayPalModel;
  * @property string shipping_method
  * @property string shipping_phone_number
  */
+
 class ItemList extends PayPalModel
 {
     /**

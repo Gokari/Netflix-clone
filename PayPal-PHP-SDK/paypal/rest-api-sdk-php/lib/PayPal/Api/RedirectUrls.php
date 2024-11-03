@@ -15,6 +15,7 @@ use PayPal\Validation\UrlValidator;
  * @property string return_url
  * @property string cancel_url
  */
+
 class RedirectUrls extends PayPalModel
 {
     /**

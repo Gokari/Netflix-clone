@@ -13,6 +13,7 @@ use PayPal\Common\PayPalModel;
  *
  * @property \PayPal\Api\Patch[] patches
  */
+
 class PatchRequest extends PayPalModel
 {
     /**

@@ -16,6 +16,7 @@ use PayPal\Security\Cipher;
 /**
  * Class OAuthTokenCredential
  */
+
 class OAuthTokenCredential extends PayPalResourceModel
 {
 

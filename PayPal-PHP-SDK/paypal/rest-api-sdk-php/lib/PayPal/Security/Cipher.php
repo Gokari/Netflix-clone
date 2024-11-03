@@ -9,6 +9,7 @@ namespace PayPal\Security;
  *
  * @package PayPal\Security
  */
+
 class Cipher
 {
     private $secretKey;

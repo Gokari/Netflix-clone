@@ -20,6 +20,7 @@ use PayPal\Validation\ArgumentValidator;
  * @property string receiver
  * @property string sender_item_id
  */
+
 class PayoutItem extends PayPalResourceModel
 {
     /**

@@ -28,6 +28,7 @@ class PayPalLogger extends AbstractLogger
      *
      * @var LogLevel $loggingLevel
      */
+    
     private $loggingLevel;
 
     /**

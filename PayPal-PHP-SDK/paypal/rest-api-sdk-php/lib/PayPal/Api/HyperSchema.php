@@ -18,6 +18,7 @@ use PayPal\Common\PayPalModel;
  * @property string pathStart
  * @property string mediaType
  */
+
 class HyperSchema extends PayPalModel
 {
     /**

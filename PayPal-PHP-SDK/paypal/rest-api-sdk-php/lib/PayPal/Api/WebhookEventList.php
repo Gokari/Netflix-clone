@@ -15,6 +15,7 @@ use PayPal\Common\PayPalModel;
  * @property int count
  * @property \PayPal\Api\Links[] links
  */
+
 class WebhookEventList extends PayPalModel
 {
     /**

@@ -14,6 +14,7 @@ use PayPal\Common\PayPalModel;
  * @property string name
  * @property string value
  */
+
 class NameValuePair extends PayPalModel
 {
     /**

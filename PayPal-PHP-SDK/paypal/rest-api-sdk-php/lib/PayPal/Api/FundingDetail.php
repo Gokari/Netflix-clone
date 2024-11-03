@@ -16,6 +16,7 @@ use PayPal\Common\PayPalModel;
  * @property string payment_debit_date
  * @property string processing_type
  */
+
 class FundingDetail extends PayPalModel
 {
     /**

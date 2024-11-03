@@ -16,6 +16,7 @@ use PayPal\Validation\NumericValidator;
  * @property string currency
  * @property string value
  */
+
 class Currency extends PayPalModel
 {
     /**

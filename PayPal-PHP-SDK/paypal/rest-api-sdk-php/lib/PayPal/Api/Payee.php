@@ -14,6 +14,7 @@ use PayPal\Common\PayPalModel;
  * @property string email
  * @property string merchant_id
  */
+
 class Payee extends PayPalModel
 {
     /**

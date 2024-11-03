@@ -17,6 +17,7 @@ use PayPal\Common\PayPalModel;
  * @property \PayPal\Api\Phone phone
  * @property \PayPal\Api\InvoiceAddress address
  */
+
 class ShippingInfo extends PayPalModel
 {
     /**

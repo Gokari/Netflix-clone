@@ -10,6 +10,7 @@ use Psr\Log\LoggerInterface;
  * This does an error_log for now
  * Potential frameworks to use are PEAR logger, log4php from Apache
  */
+
 class PayPalLoggingManager
 {
     /**

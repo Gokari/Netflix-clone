@@ -17,6 +17,8 @@ use PayPal\Common\PayPalModel;
  * @property bool send_to_payer
  * @property string[] cc_emails
  */
+
+ 
 class CancelNotification extends PayPalModel
 {
     /**

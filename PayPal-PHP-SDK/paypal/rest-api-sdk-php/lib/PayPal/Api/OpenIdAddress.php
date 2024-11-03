@@ -17,6 +17,7 @@ use PayPal\Common\PayPalModel;
  * @property string postal_code
  * @property string country
  */
+
 class OpenIdAddress extends PayPalModel
 {
     /**

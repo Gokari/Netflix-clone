@@ -16,6 +16,7 @@ use PayPal\Common\PayPalModel;
  * @property string issuer
  * @property \PayPal\Api\InstallmentOption[] installment_options
  */
+
 class InstallmentInfo extends PayPalModel
 {
     /**

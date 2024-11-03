@@ -7,6 +7,7 @@ namespace PayPal\Validation;
  *
  * @package PayPal\Validation
  */
+
 class JsonValidator
 {
 

@@ -15,6 +15,7 @@ use PayPal\Exception\PayPalMissingCredentialException;
 /**
  * Class OauthHandler
  */
+
 class OauthHandler implements IPayPalHandler
 {
     /**

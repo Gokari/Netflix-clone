@@ -14,6 +14,7 @@ use PayPal\Common\PayPalModel;
  * @property string charge_id
  * @property \PayPal\Api\Currency amount
  */
+
 class OverrideChargeModel extends PayPalModel
 {
     /**

@@ -13,6 +13,7 @@ use PayPal\Common\PayPalModel;
  *
  * @property string verification_status
  */
+
 class VerifyWebhookSignatureResponse extends PayPalModel
 {
     /**

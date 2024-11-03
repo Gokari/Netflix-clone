@@ -202,6 +202,7 @@ class BankAccount extends PayPalModel
         return $this->check_type;
     }
 
+    
     /**
      * How the check was obtained from the customer, if check was the source of the information provided.
      * Valid Values: ["CCD", "PPD", "TEL", "POP", "ARC", "RCK", "WEB"]

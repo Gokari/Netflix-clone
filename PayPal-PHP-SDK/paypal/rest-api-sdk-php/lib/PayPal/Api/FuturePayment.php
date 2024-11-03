@@ -10,6 +10,7 @@ use PayPal\Transport\PayPalRestCall;
  *
  * @package PayPal\Api
  */
+
 class FuturePayment extends Payment
 {
 

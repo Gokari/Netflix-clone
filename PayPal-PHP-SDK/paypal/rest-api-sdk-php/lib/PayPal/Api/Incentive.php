@@ -22,6 +22,7 @@ use PayPal\Validation\UrlValidator;
  * @property string type
  * @property string terms
  */
+
 class Incentive extends PayPalModel
 {
     /**

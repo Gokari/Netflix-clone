@@ -1,6 +1,6 @@
 <?php
 require_once("PayPal-PHP-SDK/autoload.php");
-
+// credential
 $apiContext = new \PayPal\Rest\ApiContext(
     new \PayPal\Auth\OAuthTokenCredential(
         'AVRhLtXg1klEAQYXu86-DiP-Pet_ZYmZQ8vpIzt3gcFdVtG3dBRQbS3ZLl-OSKI5oLdKKHFzesKI4_fT',     // ClientID

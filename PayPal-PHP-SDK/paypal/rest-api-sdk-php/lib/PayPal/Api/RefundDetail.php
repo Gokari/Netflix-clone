@@ -17,6 +17,7 @@ use PayPal\Common\PayPalModel;
  * @property string note
  * @property \PayPal\Api\Currency amount
  */
+
 class RefundDetail extends PayPalModel
 {
     /**

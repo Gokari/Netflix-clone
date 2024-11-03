@@ -14,6 +14,7 @@ use PayPal\Common\PayPalModel;
  * @property string label
  * @property \PayPal\Api\Currency amount
  */
+
 class CustomAmount extends PayPalModel
 {
     /**

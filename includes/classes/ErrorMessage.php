@@ -4,4 +4,5 @@ class ErrorMessage {
         exit("<span class='errorBanner'>$text</span>");
     }
 }
+
 ?>

@@ -23,9 +23,9 @@ use PayPal\Common\PayPalModel;
 class AgreementDetails extends PayPalModel
 {
     /**
-     * The outstanding balance for this agreement.
+     *     The outstanding balance for this agreement.
      *
-     * @param \PayPal\Api\Currency $outstanding_balance
+     *    @param \PayPal\Api\Currency $outstanding_balance
      * 
      * @return $this
      */

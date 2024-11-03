@@ -17,6 +17,7 @@ use PayPal\Common\PayPalModel;
  * @property \PayPal\Api\Capture capture
  * @property \PayPal\Api\Refund refund
  */
+
 class RelatedResources extends PayPalModel
 {
     /**

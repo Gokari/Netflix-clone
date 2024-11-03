@@ -16,6 +16,7 @@ use PayPal\Common\PayPalResourceModel;
  * @property int total_items
  * @property int total_pages
  */
+
 class CreditCardList extends PayPalResourceModel
 {
     /**

@@ -23,6 +23,7 @@ use PayPal\Validation\UrlValidator;
  * @property string last_sent_by
  * @property string payer_view_url
  */
+
 class Metadata extends PayPalModel
 {
     /**

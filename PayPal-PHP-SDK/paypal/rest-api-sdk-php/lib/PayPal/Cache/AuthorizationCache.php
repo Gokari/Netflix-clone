@@ -17,6 +17,7 @@ abstract class AuthorizationCache
      * @param string $clientId
      * @return mixed|null
      */
+    
     public static function pull($config = null, $clientId = null)
     {
         // Return if not enabled

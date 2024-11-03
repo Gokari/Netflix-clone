@@ -21,6 +21,7 @@ use PayPal\Validation\ArgumentValidator;
  * @property string                                  note
  * @property \PayPal\Api\Links[]                     links
  */
+
 class PaymentInstruction extends PayPalResourceModel
 {
     /**

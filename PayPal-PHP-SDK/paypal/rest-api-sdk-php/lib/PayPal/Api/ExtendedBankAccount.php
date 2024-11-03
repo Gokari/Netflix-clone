@@ -25,6 +25,7 @@ class ExtendedBankAccount extends BankAccount
         return $this;
     }
 
+    
     /**
      * Identifier of the direct debit mandate to validate. Currently supported only for EU bank accounts(SEPA).
      * @deprecated Not publicly available

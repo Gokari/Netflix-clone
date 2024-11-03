@@ -34,7 +34,7 @@ class SeasonProvider {
 
         return $seasonsHtml;
     }
-
+//Description
     private function createVideoSquare($video) {
         $id = $video->getId();
         $thumbnail = $video->getThumbnail();

@@ -105,6 +105,7 @@ class BillingInfo extends PayPalModel
         return $this;
     }
 
+    
     /**
      * The invoice recipient company business name. Maximum length is 100 characters.
      *

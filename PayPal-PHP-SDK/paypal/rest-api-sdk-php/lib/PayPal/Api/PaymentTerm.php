@@ -14,6 +14,7 @@ use PayPal\Common\PayPalModel;
  * @property string term_type
  * @property string due_date
  */
+
 class PaymentTerm extends PayPalModel
 {
     /**

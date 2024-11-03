@@ -18,6 +18,7 @@ use PayPal\Common\PayPalModel;
  * @property string international_bank_account_number
  * @property string bank_identifier_code
  */
+
 class RecipientBankingInstruction extends PayPalModel
 {
     /**

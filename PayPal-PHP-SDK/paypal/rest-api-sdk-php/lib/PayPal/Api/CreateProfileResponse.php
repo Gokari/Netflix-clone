@@ -11,6 +11,7 @@ namespace PayPal\Api;
  *
  * @property string id
  */
+
 class CreateProfileResponse extends WebProfile
 {
     /**

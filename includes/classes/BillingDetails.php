@@ -1,6 +1,6 @@
 <?php
 class BillingDetails {
-
+//querys
     public static function insertDetails($con, $agreement, $token, $username) {
         $query = $con->prepare("INSERT INTO billingDetails (agreementId, nextBillingDate, token, username)
                                 VALUES(:agreementId, :nextBillingDate, :token, :username)");

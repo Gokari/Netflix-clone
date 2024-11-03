@@ -13,6 +13,7 @@ use PayPal\Common\PayPalModel;
  *
  * @property string country_code
  */
+
 class CountryCode extends PayPalModel
 {
     /**

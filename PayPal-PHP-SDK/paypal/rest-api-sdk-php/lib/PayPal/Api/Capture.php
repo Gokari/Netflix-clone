@@ -26,6 +26,7 @@ use PayPal\Rest\ApiContext;
  * @property string update_time
  * @property \PayPal\Api\Links[] links
  */
+
 class Capture extends PayPalResourceModel
 {
     /**

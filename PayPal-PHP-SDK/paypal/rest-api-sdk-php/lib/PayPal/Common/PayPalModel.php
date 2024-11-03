@@ -9,6 +9,7 @@ use PayPal\Validation\JsonValidator;
  * Stores all member data in a Hashmap that enables easy
  * JSON encoding/decoding
  */
+
 class PayPalModel
 {
 

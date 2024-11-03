@@ -16,6 +16,7 @@ use PayPal\Common\PayPalModel;
  * @property mixed value
  * @property string from
  */
+
 class Patch extends PayPalModel
 {
     /**

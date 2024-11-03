@@ -10,6 +10,7 @@ use PayPal\Exception\PayPalConfigurationException;
  *
  * @package PayPal\Core
  */
+
 class PayPalHttpConfig
 {
     /**

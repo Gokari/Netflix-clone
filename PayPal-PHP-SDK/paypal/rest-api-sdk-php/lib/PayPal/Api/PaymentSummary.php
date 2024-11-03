@@ -14,6 +14,7 @@ use PayPal\Common\PayPalModel;
  * @property \PayPal\Api\Currency paypal
  * @property \PayPal\Api\Currency other
  */
+
 class PaymentSummary extends PayPalModel
 {
     /**

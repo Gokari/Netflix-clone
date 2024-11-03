@@ -22,6 +22,7 @@ use PayPal\Common\PayPalModel;
  * @property \PayPal\Api\Error errors
  * @property \PayPal\Api\Links[] links
  */
+
 class PayoutItemDetails extends PayPalModel
 {
     /**
