@@ -1,6 +1,6 @@
 <?php
 require_once("../includes/config.php");
-
+//user created
 if(isset($_POST["videoId"]) && isset($_POST["username"])) {
     $query = $con->prepare("UPDATE videoProgress SET finished=1, progress=0
                             WHERE username=:username AND videoId=:videoId");
